@@ -1,6 +1,6 @@
-﻿namespace AppWsHangfire
+﻿namespace AppWsHangfire.ServiceWindows
 {
-    partial class Service1
+    partial class WsHangFire
     {
         /// <summary> 
         /// Variável de designer necessária.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            this.ServiceName = "WsHangFire";
         }
 
         #endregion
