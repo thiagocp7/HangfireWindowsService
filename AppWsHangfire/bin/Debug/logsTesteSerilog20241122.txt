@@ -1,0 +1,609 @@
+2024-11-22 14:22:34.308 -03:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: BR-NOT-DEV-19-B\SQLEXPRESS@bdHangfire'
+2024-11-22 14:22:34.334 -03:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-11-22 14:22:34.334 -03:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-11-22 14:22:34.396 -03:00 [INF] Server br-not-dev-19-b:43528:ef4fbb79 successfully announced in 40,5527 ms
+2024-11-22 14:22:34.407 -03:00 [INF] Server br-not-dev-19-b:43528:ef4fbb79 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-11-22 14:22:34.419 -03:00 [INF] 1 servers were removed due to timeout
+2024-11-22 14:22:34.518 -03:00 [INF] Server br-not-dev-19-b:43528:ef4fbb79 all the dispatchers started
+2024-11-22 14:38:21.380 -03:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: BR-NOT-DEV-19-B\SQLEXPRESS@bdHangfire'
+2024-11-22 14:38:21.404 -03:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-11-22 14:38:21.404 -03:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-11-22 14:38:21.462 -03:00 [INF] Server br-not-dev-19-b:10644:5ff0d312 successfully announced in 38,9012 ms
+2024-11-22 14:38:21.466 -03:00 [INF] Server br-not-dev-19-b:10644:5ff0d312 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-11-22 14:38:21.478 -03:00 [INF] 3 servers were removed due to timeout
+2024-11-22 14:38:21.588 -03:00 [INF] Server br-not-dev-19-b:10644:5ff0d312 all the dispatchers started
+2024-11-22 14:44:13.568 -03:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: BR-NOT-DEV-19-B\SQLEXPRESS@bdHangfire'
+2024-11-22 14:44:13.606 -03:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-11-22 14:44:13.607 -03:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-11-22 14:44:13.660 -03:00 [INF] Server br-not-dev-19-b:10048:3cd2e95d successfully announced in 27,0875 ms
+2024-11-22 14:44:13.670 -03:00 [INF] Server br-not-dev-19-b:10048:3cd2e95d is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-11-22 14:44:13.687 -03:00 [INF] 1 servers were removed due to timeout
+2024-11-22 14:44:13.858 -03:00 [INF] Server br-not-dev-19-b:10048:3cd2e95d all the dispatchers started
+2024-11-22 14:49:48.287 -03:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: BR-NOT-DEV-19-B\SQLEXPRESS@bdHangfire'
+2024-11-22 14:49:48.311 -03:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-11-22 14:49:48.311 -03:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-11-22 14:49:48.361 -03:00 [INF] Server br-not-dev-19-b:18356:f1fccb81 successfully announced in 24,6044 ms
+2024-11-22 14:49:48.364 -03:00 [INF] Server br-not-dev-19-b:18356:f1fccb81 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-11-22 14:49:48.551 -03:00 [INF] Server br-not-dev-19-b:18356:f1fccb81 all the dispatchers started
+2024-11-22 14:49:54.674 -03:00 [INF] Requisição recebida: GET /hangfire/jobs/details/1
+2024-11-22 14:49:54.793 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:49:56.840 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:49:56.855 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:49:58.875 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:49:58.878 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:00.897 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:00.899 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:02.907 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:02.909 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:04.923 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:04.927 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:06.942 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:06.946 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:08.957 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:08.960 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:10.979 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:10.987 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:12.997 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:13.000 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:13.928 -03:00 [INF] Requisição recebida: POST /hangfire/jobs/actions/requeue/1
+2024-11-22 14:50:13.938 -03:00 [INF] Resposta enviada: 204
+2024-11-22 14:50:13.947 -03:00 [INF] Requisição recebida: GET /hangfire/jobs/details/1
+2024-11-22 14:50:13.966 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:16.008 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:16.013 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:18.031 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:18.037 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:20.064 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:20.078 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:22.090 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:22.093 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:24.105 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:24.112 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:26.126 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:26.129 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:28.149 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:28.172 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:30.175 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:30.207 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:32.220 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:32.248 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:34.258 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:34.285 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:34.717 -03:00 [INF] Requisição recebida: GET /hangfire/jobs/details/1
+2024-11-22 14:50:34.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:36.794 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:36.796 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:38.814 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:38.815 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:40.824 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:40.826 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:42.844 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:42.845 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:44.860 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:44.863 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:46.873 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:46.875 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:48.885 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:48.888 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:50.907 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:50.909 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:52.932 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:52.935 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:54.945 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:54.997 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:57.015 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:57.036 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:50:59.056 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:50:59.086 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:01.103 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:01.124 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:03.136 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:03.139 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:05.159 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:05.162 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:07.190 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:07.199 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:09.219 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:09.222 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:11.234 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:11.236 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:13.252 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:13.255 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:15.259 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:15.281 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:17.288 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:17.312 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:19.329 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:19.358 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:21.379 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:21.402 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:23.419 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:23.445 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:25.452 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:25.468 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:27.476 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:27.504 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:29.522 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:29.551 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:31.569 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:31.601 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:33.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:33.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:36.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:36.724 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:39.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:39.738 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:42.716 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:42.754 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:45.717 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:45.743 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:48.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:48.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:51.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:51.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:54.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:54.705 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:51:57.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:51:57.708 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:00.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:00.713 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:03.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:03.703 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:06.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:06.706 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:09.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:09.712 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:12.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:12.715 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:15.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:15.699 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:18.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:18.747 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:21.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:21.724 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:24.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:24.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:27.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:27.738 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:30.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:30.720 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:33.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:33.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:36.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:36.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:39.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:39.747 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:42.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:42.746 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:45.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:45.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:48.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:48.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:51.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:51.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:54.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:54.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:52:57.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:52:57.725 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:00.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:00.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:03.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:03.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:06.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:06.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:09.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:09.773 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:12.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:12.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:15.713 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:15.751 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:18.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:18.735 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:21.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:21.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:24.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:24.717 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:27.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:27.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:30.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:30.722 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:33.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:33.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:36.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:36.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:39.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:39.722 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:42.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:42.726 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:45.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:45.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:48.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:48.740 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:51.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:51.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:54.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:54.722 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:53:57.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:53:57.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:00.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:00.740 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:03.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:03.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:06.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:06.733 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:09.715 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:09.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:12.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:12.726 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:15.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:15.735 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:18.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:18.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:21.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:21.744 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:24.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:24.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:27.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:27.740 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:30.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:30.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:33.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:33.719 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:36.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:36.748 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:39.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:39.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:42.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:42.733 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:45.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:45.743 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:48.421 -03:00 [INF] 1 servers were removed due to timeout
+2024-11-22 14:54:48.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:48.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:51.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:51.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:54.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:54.720 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:54:57.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:54:57.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:00.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:00.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:03.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:03.754 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:06.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:06.748 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:09.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:09.733 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:12.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:12.715 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:15.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:15.704 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:18.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:18.710 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:21.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:21.701 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:24.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:24.700 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:27.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:27.713 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:30.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:30.706 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:33.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:33.725 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:36.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:36.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:39.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:39.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:42.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:42.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:45.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:45.719 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:48.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:48.735 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:51.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:51.740 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:54.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:54.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:55:57.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:55:57.753 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:00.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:00.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:03.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:03.722 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:06.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:06.746 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:09.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:09.741 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:12.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:12.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:15.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:15.738 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:18.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:18.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:21.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:21.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:24.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:24.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:27.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:27.746 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:30.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:30.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:33.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:33.720 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:36.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:36.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:39.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:39.725 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:42.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:42.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:45.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:45.754 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:48.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:48.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:51.715 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:51.748 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:54.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:54.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:56:57.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:56:57.724 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:00.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:00.750 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:03.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:03.741 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:06.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:06.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:09.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:09.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:12.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:12.754 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:15.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:15.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:18.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:18.715 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:21.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:21.724 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:24.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:24.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:27.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:27.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:30.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:30.759 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:33.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:33.735 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:36.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:36.726 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:39.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:39.743 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:42.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:42.733 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:45.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:45.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:48.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:48.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:51.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:51.749 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:54.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:54.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:57:57.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:57:57.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:00.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:00.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:03.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:03.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:06.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:06.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:09.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:09.724 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:12.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:12.718 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:15.713 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:15.756 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:18.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:18.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:21.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:21.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:24.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:24.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:27.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:27.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:30.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:30.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:33.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:33.741 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:36.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:36.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:39.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:39.725 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:42.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:42.744 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:45.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:45.745 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:48.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:48.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:51.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:51.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:54.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:54.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:58:57.712 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:58:57.747 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:00.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:00.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:03.695 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:03.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:06.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:06.740 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:09.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:09.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:12.713 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:12.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:15.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:15.736 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:18.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:18.722 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:21.715 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:21.757 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:24.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:24.735 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:27.707 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:27.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:30.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:30.729 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:33.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:33.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:36.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:36.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:39.696 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:39.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:42.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:42.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:45.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:45.750 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:48.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:48.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:51.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:51.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:54.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:54.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 14:59:57.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 14:59:57.743 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:00.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:00.753 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:03.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:03.726 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:06.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:06.741 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:09.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:09.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:12.711 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:12.714 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:15.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:15.726 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:18.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:18.740 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:21.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:21.721 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:24.715 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:24.718 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:27.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:27.712 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:30.714 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:30.717 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:33.709 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:33.712 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:36.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:36.713 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:39.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:39.705 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:42.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:42.714 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:45.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:45.743 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:48.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:48.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:51.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:51.744 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:54.706 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:54.744 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:00:57.697 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:00:57.732 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:00.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:00.730 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:03.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:03.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:06.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:06.719 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:09.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:09.745 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:12.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:12.746 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:15.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:15.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:18.713 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:18.742 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:21.704 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:21.727 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:24.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:24.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:27.701 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:27.731 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:30.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:30.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:33.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:33.733 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:36.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:36.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:39.710 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:39.743 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:42.698 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:42.728 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:45.699 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:45.723 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:48.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:48.738 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:51.708 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:51.739 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:54.705 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:54.737 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:01:57.700 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:01:57.734 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:02:00.703 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:02:00.723 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:02:03.702 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:02:03.763 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:13:17.061 -03:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: BR-NOT-DEV-19-B\SQLEXPRESS@bdHangfire'
+2024-11-22 15:13:17.106 -03:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-11-22 15:13:17.106 -03:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-11-22 15:13:17.229 -03:00 [INF] Server br-not-dev-19-b:9948:fcc6475c successfully announced in 95,2871 ms
+2024-11-22 15:13:17.234 -03:00 [INF] Server br-not-dev-19-b:9948:fcc6475c is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-11-22 15:13:17.247 -03:00 [INF] 1 servers were removed due to timeout
+2024-11-22 15:13:17.352 -03:00 [INF] Server br-not-dev-19-b:9948:fcc6475c all the dispatchers started
+2024-11-22 15:13:44.573 -03:00 [INF] Requisição recebida: GET /favicon.ico
+2024-11-22 15:13:44.585 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:13:48.131 -03:00 [INF] Requisição recebida: GET /
+2024-11-22 15:13:48.132 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:13:48.161 -03:00 [INF] Requisição recebida: GET /favicon.ico
+2024-11-22 15:13:48.162 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:14:18.967 -03:00 [INF] Requisição recebida: GET /
+2024-11-22 15:14:18.968 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:14:19.007 -03:00 [INF] Requisição recebida: GET /favicon.ico
+2024-11-22 15:14:19.008 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:14:27.255 -03:00 [INF] Requisição recebida: GET /grafana
+2024-11-22 15:14:27.256 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:14:27.281 -03:00 [INF] Requisição recebida: GET /favicon.ico
+2024-11-22 15:14:27.282 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:14:32.938 -03:00 [INF] Requisição recebida: POST /hangfire/stats
+2024-11-22 15:14:32.999 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:15:12.383 -03:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: BR-NOT-DEV-19-B\SQLEXPRESS@bdHangfire'
+2024-11-22 15:15:12.417 -03:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-11-22 15:15:12.417 -03:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-11-22 15:15:12.466 -03:00 [INF] Server br-not-dev-19-b:37696:3fc24b50 successfully announced in 27,6358 ms
+2024-11-22 15:15:12.472 -03:00 [INF] Server br-not-dev-19-b:37696:3fc24b50 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-11-22 15:15:12.661 -03:00 [INF] Server br-not-dev-19-b:37696:3fc24b50 all the dispatchers started
+2024-11-22 15:16:07.851 -03:00 [INF] Requisição recebida: GET /
+2024-11-22 15:16:07.863 -03:00 [INF] Resposta enviada: 200
+2024-11-22 15:16:07.907 -03:00 [INF] Requisição recebida: GET /favicon.ico
+2024-11-22 15:16:07.907 -03:00 [INF] Resposta enviada: 200

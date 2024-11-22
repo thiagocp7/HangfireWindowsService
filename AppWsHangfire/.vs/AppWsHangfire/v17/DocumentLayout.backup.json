@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|c:\\github\\hangfirewindowsservice\\appwshangfire\\servicewindows\\wshangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:servicewindows\\wshangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|c:\\github\\hangfirewindowsservice\\appwshangfire\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|c:\\github\\hangfirewindowsservice\\appwshangfire\\servicewindows\\wshangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:servicewindows\\wshangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|c:\\github\\hangfirewindowsservice\\appwshangfire\\servicewindows\\wshangfire.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:servicewindows\\wshangfire.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|c:\\github\\hangfirewindowsservice\\appwshangfire\\servicewindows\\wshangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE4F9D-32AB-45E3-A3D0-8BAE58231779}|AppWsHangfire.csproj|solutionrelative:servicewindows\\wshangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,79 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WsHangFire.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.cs",
-              "RelativeDocumentMoniker": "ServiceWindows\\WsHangFire.cs",
-              "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.cs [Design]*",
-              "RelativeToolTip": "ServiceWindows\\WsHangFire.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:35:51.111Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WsHangFire.Designer.cs",
-              "DocumentMoniker": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.Designer.cs",
-              "RelativeDocumentMoniker": "ServiceWindows\\WsHangFire.Designer.cs",
-              "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.Designer.cs",
-              "RelativeToolTip": "ServiceWindows\\WsHangFire.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:35:44.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T18:31:43.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-19T22:12:35.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WsHangFire.cs",
               "DocumentMoniker": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.cs",
               "RelativeDocumentMoniker": "ServiceWindows\\WsHangFire.cs",
-              "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.cs*",
-              "RelativeToolTip": "ServiceWindows\\WsHangFire.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwD8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\ServiceWindows\\WsHangFire.cs",
+              "RelativeToolTip": "ServiceWindows\\WsHangFire.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T21:57:34.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GitHub\\HangfireWindowsService\\AppWsHangfire\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:56:04.185Z",
               "EditorCaption": ""
             }
           ]

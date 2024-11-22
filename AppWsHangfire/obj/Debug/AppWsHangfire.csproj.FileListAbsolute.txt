@@ -149,3 +149,15 @@ C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Microsoft.Owin.xml
 C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Microsoft.Owin.Hosting.xml
 C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
 C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.dll
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.Console.dll
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.File.dll
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\System.Threading.Channels.dll
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.xml
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.Console.xml
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.File.xml
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\System.Threading.Channels.xml
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.Grafana.Loki.dll
+C:\GitHub\HangfireWindowsService\AppWsHangfire\bin\Debug\Serilog.Sinks.Grafana.Loki.xml

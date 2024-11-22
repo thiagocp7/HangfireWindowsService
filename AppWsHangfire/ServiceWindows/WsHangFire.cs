@@ -56,7 +56,6 @@ namespace AppWsHangfire.ServiceWindows
 
         public static void testeErro() 
         {
-            throw new Exception("Teste de erro!");
             System.IO.File.WriteAllText("C:\\Dev\\testeHangfire.txt", "Rodor o hangfire");
         }
 
